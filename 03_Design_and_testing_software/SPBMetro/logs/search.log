@@ -1,0 +1,32 @@
+2020-07-01 23:26:03.479 [main] INFO   - Start SPBMetro
+2020-07-01 23:26:03.494 [main] INFO   - Input from:
+2020-07-01 23:26:06.035 [main] WARN   - Incorrect input station: trehg
+2020-07-01 23:26:07.754 [main] WARN   - Incorrect input station: 666
+2020-07-01 23:28:57.831 [main] INFO   - Start SPBMetro
+2020-07-01 23:28:57.843 [main] INFO   - Input from:
+2020-07-01 23:28:59.578 [main] WARN   - Incorrect input station: dfgdf
+2020-07-01 23:29:00.609 [main] WARN   - Incorrect input station: fgh
+2020-07-01 23:29:02.530 [main] WARN   - Incorrect input station: hhhh
+2020-07-01 23:29:10.131 [main] INFO   - station - Фрунзенская
+2020-07-01 23:29:10.131 [main] INFO   - Input to:
+2020-07-01 23:29:16.060 [main] INFO   - station - Звёздная
+2020-07-01 23:29:16.064 [main] INFO   - Input from:
+2020-07-01 23:29:21.613 [main] WARN   - Incorrect input station: 0000
+2020-07-01 23:29:28.118 [main] WARN   - Incorrect input station: 0/0
+2020-07-01 23:29:36.527 [main] WARN   - Incorrect input station: 100+2
+2020-07-01 23:31:34.671 [main] INFO   - Start SPBMetro
+2020-07-01 23:31:34.680 [main] INFO   - Input from:
+2020-07-01 23:31:37.423 [main] WARN   - Incorrect input station: gfhjh
+2020-07-01 23:31:40.183 [main] WARN   - Incorrect input station: dfg
+2020-07-01 23:31:46.455 [main] INFO   - station - Фрунзенская
+2020-07-01 23:31:46.455 [main] INFO   - Input to:
+2020-07-01 23:31:50.008 [main] INFO   - station - Ломоносовская
+2020-07-01 23:31:50.014 [main] ERROR  - java.lang.Exception: Main error
+2020-07-01 23:31:50.014 [main] INFO   - Input from:
+2020-07-01 23:31:52.480 [main] WARN   - Incorrect input station: rfdg
+2020-07-02 20:52:11.817 [main] INFO  Main - Start SPBMetro
+2020-07-02 20:52:11.827 [main] INFO  Main - Input from:
+2020-07-02 20:52:42.115 [main] INFO  Main - station - Фрунзенская
+2020-07-02 20:52:42.115 [main] INFO  Main - Input to:
+2020-07-02 20:52:45.706 [main] INFO  Main - station - Маяковская
+2020-07-02 20:52:45.711 [main] INFO  Main - Input from:

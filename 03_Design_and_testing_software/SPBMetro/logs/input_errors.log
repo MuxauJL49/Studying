@@ -1,0 +1,15 @@
+2020-07-01 23:26:06.035 [main] WARN   - Incorrect input station: trehg
+2020-07-01 23:26:07.754 [main] WARN   - Incorrect input station: 666
+2020-07-01 23:28:59.578 [main] WARN   - Incorrect input station: dfgdf
+2020-07-01 23:29:00.609 [main] WARN   - Incorrect input station: fgh
+2020-07-01 23:29:02.530 [main] WARN   - Incorrect input station: hhhh
+2020-07-01 23:29:21.613 [main] WARN   - Incorrect input station: 0000
+2020-07-01 23:29:28.118 [main] WARN   - Incorrect input station: 0/0
+2020-07-01 23:29:36.527 [main] WARN   - Incorrect input station: 100+2
+2020-07-01 23:31:37.423 [main] WARN   - Incorrect input station: gfhjh
+2020-07-01 23:31:40.183 [main] WARN   - Incorrect input station: dfg
+2020-07-01 23:31:50.014 [main] ERROR  - java.lang.Exception: Main error
+2020-07-01 23:31:52.480 [main] WARN   - Incorrect input station: rfdg
+2020-07-02 20:52:21.033 [main] WARN  Main - Incorrect input station: ksjdfkj
+2020-07-02 20:52:21.775 [main] WARN  Main - Incorrect input station: sdkfj
+2020-07-02 20:52:23.263 [main] WARN  Main - Incorrect input station: kdkdk
